@@ -13,7 +13,7 @@ import time
 
 import streamlit as st
 import pandas as pd
-creds = {'user_id':'FH4136','password':'@12ajashish','totp_key':'YAD3HOXZKS4FYJ2DSTYUGQWCSDZMCXVC','api_key':'c1zwly326w2c7wrj', 'api_secret':"rmb518la5tvvfwhqa45hh2272z9rzxrb" }
+creds = {'user_id':'####','password':'#######','totp_key':'########','api_key':'#######', 'api_secret':"#########" }
 api_key = 'c1zwly326w2c7wrj'
 base_url = "https://kite.zerodha.com"
 login_url = "https://kite.zerodha.com/api/login"
